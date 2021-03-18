@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/DankFC/DankFC/blob/master/SRC.png?raw=true)
+![](https://github.com/DankFC/DankFC/blob/master/RC2.png?raw=true)
